@@ -27,3 +27,6 @@ Embarked - Port of Embarkation (C = Cherbourg, France; Q = Queenstown, UK; S = S
 ## Result
 
 editing..   
+
+## Code
+Please see [CODE.ipynb]() for details.
