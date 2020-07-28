@@ -29,4 +29,4 @@ Embarked - Port of Embarkation (C = Cherbourg, France; Q = Queenstown, UK; S = S
 editing..   
 
 ## Code
-Please see [CODE.ipynb]() for details.
+Please see [CODE.ipynb](https://github.com/ct627/Titanic_ML/blob/master/CODE.ipynb) for details.
