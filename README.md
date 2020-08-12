@@ -4,7 +4,7 @@ From [kaggle](https://www.kaggle.com/c/bike-sharing-demand/overview)
 
 ## Overview. 
 
-Predict the number of hourly bikeshare rentals.  
+Forecast use of a city bikeshare syste.  
 
 The data has been split into two groups:  
 training set (train.csv)  
@@ -13,7 +13,7 @@ The purpose is to train the training set data using machine learning algorithms 
 data is not included in this repository but is available for download from [kaggle](https://www.kaggle.com/c/bike-sharing-demand/overview).  
 
 ## Data Dictionary
-(from [kaggle](https://www.kaggle.com/c/bike-sharing-demand/overview).)
+(from [kaggle](https://www.kaggle.com/c/bike-sharing-demand/data).)
 - datetime : hourly date + timestamp.   
 - season :  1 = spring, 2 = summer, 3 = fall, 4 = winter.   
 - holiday : whether the day is considered a holiday. 
