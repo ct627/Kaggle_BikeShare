@@ -33,5 +33,5 @@ data is not included in this repository but is available for download from [kagg
 
 ## Result and code
 
-Please see [CODE.ipynb]() for details.
+Please see code [here](https://github.com/ct627/Kaggle_BikeShare/blob/master/bikeshare.ipynb) for details.
 
