@@ -8,7 +8,8 @@ Forecast use of a city bikeshare syste.
 
 The data has been split into two groups:  
 - training set (train.csv)  
-- test set (test.csv)  
+- test set (test.csv)    
+
 The purpose is to train the training set data using machine learning algorithms to predict the number of hourly bikeshare rentals.  
 data is not included in this repository but is available for download from [kaggle](https://www.kaggle.com/c/bike-sharing-demand/overview).  
 
