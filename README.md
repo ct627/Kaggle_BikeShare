@@ -4,7 +4,7 @@ From [kaggle](https://www.kaggle.com/c/bike-sharing-demand/overview)
 
 ## Overview. 
 
-Forecast use of a city bikeshare syste.  
+Forecast use of a city bikeshare system.  
 
 The data has been split into two groups:  
 - training set (train.csv)  
